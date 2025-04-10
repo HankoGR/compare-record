@@ -1,9 +1,9 @@
 # 🏁 Compare Record Dashboard
 This is a web-based dashboard built with Dash (Plotly) that allows athletes to:
 - Submit their first and last name, category, gender, and time
-- See how your result compares to the national record
+- See how their result compares to the national record
 - View the top 6 results per category/gender
-- Get your exact rank highlighted below the leaderboard
+- Get their exact rank highlighted below the leaderboard
 
 ## 📁 Files Included
 - `app.py` — Main dashboard app  
